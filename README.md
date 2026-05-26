@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
-<h1 align="center">Luna Script Runner & Utility</h1>
+<h1 align="center">Roblox Luna Script Runner & Utility</h1>
 
 <p align="center">
   A powerful, lightweight environment designed for executing, testing, and debugging Lua scripts in sandbox environments. Built with stability and user experience in mind.
